@@ -10,6 +10,12 @@ Actualmente, me dedico a incrementar mi experiencia y habilidades con el manejo 
 - :cat: Desarrollador Web PHP
 - :dog: Desarrollador Web Vue.js
 
+## Contáctame
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/edson-cuno-tipso/
+
+## Portafolio de proyectos
+:file_folder: https://www.linkedin.com/in/edson-cuno-tipso/
+
 ## Lenguajes
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
