@@ -27,5 +27,5 @@ Actualmente, me dedico a incrementar mi experiencia y habilidades con el manejo 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ## Estadísticas
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edsoncuno&theme=tokyonight&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edsoncuno4&theme=tokyonight&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncuno4&layout=pie)](https://git.io/streak-stats)
