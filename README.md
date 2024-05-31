@@ -3,7 +3,7 @@
 <!-- https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia -->
 ## Hola, Soy Edson Cuno 👋
 Estudiante de Ingeniería Informática con conocimientos en desarrollo web.
-Actualmente, me dedico a incrementar mi experiencia y habilidades con el manejo de los datos y en el desarrollo paginas web y de servicios web.
+Actualmente, me dedico a incrementar mi experiencia y habilidades con el manejo de los datos y en el desarrollo de páginas web y de servicios web.
 
 ## Sobre mi
 - :cat: Desarrollador Web PHP
@@ -24,6 +24,7 @@ Actualmente, me dedico a incrementar mi experiencia y habilidades con el manejo 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## Sistemas operativos
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ## Estadísticas
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edsoncuno&theme=tokyonight&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
